@@ -1,2 +1,2 @@
-# Dataset_RANA
-dataset for the project Wound_analysis_RANA
+# Dataset
+Demonstration of a closed dataset for a project Wound_analysis_RANA
